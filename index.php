@@ -16,7 +16,7 @@
 			<th>KOD PRODUK</th>
 			<th>NAMA PRODUK</th>
         		<th>HARGA</th>
-        		<th>KUANT</th>
+        		<th>KUANTITI</th>
 
 <td>Hapus</td><!-- Isi tag <td> dengan Hapus-->
 			
