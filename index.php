@@ -4,6 +4,9 @@
 	<title>KIDS TOYS</title>
 </head>
 <body>
+	<script
+src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-33139e5a-1090-40c9-82c5-fa8aed222df6"></div>
 	<center>
 		<!--Tiada huruf G-->
 		<h2>SENARAI BARANG MAINAN</h2>
